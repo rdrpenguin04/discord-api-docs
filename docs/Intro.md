@@ -24,7 +24,7 @@ Here are some examples to whet your appetite:
 
 Head over to our new [applications page](#MY_APPLICATIONS/top) to dive into creating your own custom juice.
 
-## Games (aka Games)
+## Games
 
 Discord is built around the idea of bringing people together through games. As part of that goal, we want to offer ways for game developers to work closely with us and make awesome stuff. [Rich Presence](https://discordapp.com/rich-presence) is a great way to more deeply integrate with Discord! It lets you:
 
